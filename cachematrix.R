@@ -1,3 +1,5 @@
+## cachematrix.R contains two different functions.
+
 ## makeCacheMatrix will create a list of 4 functions that with store 
 ## the matrix (set function). If we apply the second function 
 ## to the outcome of the 1st then it will store also the inverse in the cache
